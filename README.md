@@ -4,13 +4,13 @@ Setting up the development environment: https://reactnative.dev/docs/environment
 
 ## Available Scripts
 
-In the project directory, you do install dependencies with:
+In the project directory, you can install dependencies with:
 
 ### `yarn install or npm install`
 
 Preview :
 
-### `expo start` and Using Expo Client App (Expo Go) and scan this QR code.
+### `expo start` Using Expo Client App (Expo Go) and scan the QR code.
 
 Run on android :
 
