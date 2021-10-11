@@ -37,7 +37,6 @@ const Home: FC<{ navigation: Props }> = ({ navigation }): ReactElement => {
       )
       .then((response: any) => {
         setAllData(response.data.articles);
-        console.log(response.data.articles);
       })
       .catch((error) => {
         alert(error.message);

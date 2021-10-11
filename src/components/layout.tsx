@@ -1,4 +1,4 @@
-import React, { FC, ReactChild, ReactNode, ReactElement } from "react";
+import React, { FC, ReactNode, ReactElement } from "react";
 import styled from "styled-components";
 
 const SafeAreaView = styled.SafeAreaView`
